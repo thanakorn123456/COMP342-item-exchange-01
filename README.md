@@ -46,3 +46,8 @@ COMP342_Lab4_Implementation_Git/
 ## หมายเหตุ
 
 Repository นี้จัดทำสำหรับใบงานที่ 4: Implementation + Git
+
+## Repository Status
+
+The repository is prepared for team development.
+The project is divided into modules for authentication, posts, search, chat, and administration.
