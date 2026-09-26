@@ -16,7 +16,7 @@
 ## โครงสร้าง Repository
 
 ```text
-COMP342_Lab4_Implementation_Git/
+COMP342-item-exchange-01/
 ├── README.md
 ├── docs/
 │   └── project-notes.md
@@ -27,27 +27,3 @@ COMP342_Lab4_Implementation_Git/
 │   ├── chat/
 │   └── admin/
 └── tests/
-```
-
-## โมดูลหลัก
-
-- `auth` — สมัครสมาชิก เข้าสู่ระบบ และจัดการข้อมูลผู้ใช้
-- `posts` — สร้าง แก้ไข ลบประกาศ และเปลี่ยนสถานะสินค้า
-- `search` — ค้นหาและกรองรายการสิ่งของ
-- `chat` — ส่งข้อความระหว่างผู้ส่งต่อและผู้รับ
-- `admin` — จัดการสมาชิกและลบโพสต์ที่ไม่เหมาะสม
-
-## Commit History
-
-1. `Initial repository structure`
-2. `Add project modules and team responsibilities`
-3. `Document repository status`
-
-## หมายเหตุ
-
-Repository นี้จัดทำสำหรับใบงานที่ 4: Implementation + Git
-
-## Repository Status
-
-The repository is prepared for team development.
-The project is divided into modules for authentication, posts, search, chat, and administration.
